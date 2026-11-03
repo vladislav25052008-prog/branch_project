@@ -1,7 +1,3 @@
-﻿Line 1: project
-<<<<<<< HEAD
-Line 2: version NEWBRANCH
-=======
-Line 2: version MASTER
->>>>>>> master
+Line 1: project
+Line 2: version NEWBRANCH + MASTER
 Line 3: author

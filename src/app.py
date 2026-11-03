@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿print('newbranch version')
-=======
-﻿print('master version')
->>>>>>> master
+print('newbranch + master version')
